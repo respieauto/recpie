@@ -1,125 +1,139 @@
 {
-    "project_name": "Auto Blogging System - Fashion",
-    "niche": "Female Fashion & Latest Fashions",
-    "language": "English",
-    "posts_per_day": 2,
-    "created_at": "2026-06-10",
-    "last_updated": "2026-06-10T12:00:00+05:00",
-    "total_posts_published": 0,
-    "total_pins_created": 0,
-    "api_keys_configured": true,
-    "blogger_configured": true,
-    "pinterest_configured": true,
-    "blogger_blog_id": "TO_BE_CONFIGURED",
-    "blogger_blog_url": "https://femalestylo.blogspot.com/",
-    "blogger_blog_name": "Female Fashion Latest Fashions",
-    "published_topics": [],
-    "failed_attempts": [],
-    "github": {
-        "username": "jobleio111-cell",
-        "repo_name": "moneymakers",
-        "repo_url": "https://github.com/jobleio111-cell/moneymakers",
-        "branch": "main",
-        "actions_url": "https://github.com/jobleio111-cell/moneymakers/actions",
-        "pushed_on": "2026-06-06",
-        "push_status": "SUCCESS",
-        "commit": "b497912",
-        "files_pushed": 14,
-        "git_installed": "2.54.0.windows.1"
+  "project_name": "Auto Blogging System - Fashion",
+  "niche": "Female Fashion & Latest Fashions",
+  "language": "English",
+  "posts_per_day": 2,
+  "created_at": "2026-06-10",
+  "last_updated": "2026-06-12T06:12:16.245661",
+  "total_posts_published": 1,
+  "total_pins_created": 1,
+  "api_keys_configured": true,
+  "blogger_configured": true,
+  "pinterest_configured": true,
+  "blogger_blog_id": "TO_BE_CONFIGURED",
+  "blogger_blog_url": "https://femalestylo.blogspot.com/",
+  "blogger_blog_name": "Female Fashion Latest Fashions",
+  "published_topics": [
+    "Explore  Food and drink  articles"
+  ],
+  "failed_attempts": [],
+  "github": {
+    "username": "jobleio111-cell",
+    "repo_name": "moneymakers",
+    "repo_url": "https://github.com/jobleio111-cell/moneymakers",
+    "branch": "main",
+    "actions_url": "https://github.com/jobleio111-cell/moneymakers/actions",
+    "pushed_on": "2026-06-06",
+    "push_status": "SUCCESS",
+    "commit": "b497912",
+    "files_pushed": 14,
+    "git_installed": "2.54.0.windows.1"
+  },
+  "image_system": {
+    "pinterest_username": "MoneyMaker9999912",
+    "pinterest_board_name": "money-making",
+    "pinterest_board_id": "1129418481492779536",
+    "pinterest_board_url": "https://www.pinterest.com/MoneyMaker9999912/money-making/",
+    "pinterest_token_note": "Token expires every 24h - needs OAuth refresh token for automation",
+    "primary": "pexels",
+    "primary_url": "https://www.pexels.com/api/",
+    "primary_cost": "FREE API Key",
+    "fallback": "pexels",
+    "image_size": "1000x1500 portrait (Pinterest optimized)",
+    "model": "flux-realism"
+  },
+  "sessions": [
+    {
+      "date": "2026-06-06T04:24:00+05:00",
+      "action": "Project initialized",
+      "status": "completed",
+      "notes": "Niche: Finance & Money Making | Posts: 2/day"
     },
-    "image_system": {
-        "pinterest_username": "MoneyMaker9999912",
-        "pinterest_board_name": "money-making",
-        "pinterest_board_id": "1129418481492779536",
-        "pinterest_board_url": "https://www.pinterest.com/MoneyMaker9999912/money-making/",
-        "pinterest_token_note": "Token expires every 24h - needs OAuth refresh token for automation",
-        "primary": "pexels",
-        "primary_url": "https://www.pexels.com/api/",
-        "primary_cost": "FREE API Key",
-        "fallback": "pexels",
-        "image_size": "1000x1500 portrait (Pinterest optimized)",
-        "model": "flux-realism"
+    {
+      "date": "2026-06-06T09:39:00+05:00",
+      "action": "Image system upgraded to AI (Pollinations.ai) + GitHub pushed",
+      "status": "completed",
+      "notes": "Repo: github.com/jobleio111-cell/moneymakers | AI images: flux-realism model"
     },
-    "sessions": [
-        {
-            "date": "2026-06-06T04:24:00+05:00",
-            "action": "Project initialized",
-            "status": "completed",
-            "notes": "Niche: Finance & Money Making | Posts: 2/day"
-        },
-        {
-            "date": "2026-06-06T09:39:00+05:00",
-            "action": "Image system upgraded to AI (Pollinations.ai) + GitHub pushed",
-            "status": "completed",
-            "notes": "Repo: github.com/jobleio111-cell/moneymakers | AI images: flux-realism model"
-        },
-        {
-            "date": "2026-06-06T13:42:00+05:00",
-            "status": "completed",
-            "action": "Major API Fixes & Integrations",
-            "notes": "Replaced genai SDK with REST API, added 15s proactive and 60s retry delays for 429 rate limit, added 503 fallback to 1.5-flash, switched to Pexels, and integrated Make.com for Pinterest."
-        },
-        {
-            "date": "2026-06-06T23:45:00+05:00",
-            "status": "completed",
-            "action": "Make.com Integration & GitHub Actions Fixes",
-            "notes": "Injected PIN_IMAGE_URL and PIN_DESCRIPTION hidden markers into Blogger HTML. Disabled local Pinterest script (now handled by Make.com). Fixed GitHub Actions 403 errors by hardcoding blogger_blog_id and passing BLOGGER_TOKEN via safe env vars. Fixed OAuth local server port."
-        }
-    ],
-    "settings": {
-        "post_times_utc": [
-            "04:00",
-            "10:00"
-        ],
-        "post_times_pkt": [
-            "09:00 AM",
-            "03:00 PM"
-        ],
-        "image_source": "pexels",
-        "ai_model": "gemini-2.5-flash (with 1.5-flash fallback)",
-        "image_model": "flux-realism (Pollinations.ai)",
-        "seo_min_words": 1000,
-        "pinterest_board": "TO_BE_CONFIGURED",
-        "blogger_blog_id": "TO_BE_CONFIGURED",
-        "scheduler": "GitHub Actions (FREE cloud)"
+    {
+      "date": "2026-06-06T13:42:00+05:00",
+      "status": "completed",
+      "action": "Major API Fixes & Integrations",
+      "notes": "Replaced genai SDK with REST API, added 15s proactive and 60s retry delays for 429 rate limit, added 503 fallback to 1.5-flash, switched to Pexels, and integrated Make.com for Pinterest."
     },
-    "api_keys_needed": {
-        "gemini_api_key": {
-            "url": "https://aistudio.google.com/app/apikey",
-            "cost": "FREE (generous limits)",
-            "status": "pending"
-        },
-        "pexels_api_key": {
-            "url": "https://www.pexels.com/api/",
-            "cost": "FREE",
-            "status": "optional - only fallback",
-            "note": "AI images banenge primarily, yeh sirf backup hai"
-        },
-        "pinterest_access_token": {
-            "url": "https://developers.pinterest.com/apps/",
-            "cost": "FREE",
-            "status": "pending"
-        },
-        "blogger_api": {
-            "url": "https://console.cloud.google.com",
-            "cost": "FREE",
-            "status": "pending"
-        }
+    {
+      "date": "2026-06-06T23:45:00+05:00",
+      "status": "completed",
+      "action": "Make.com Integration & GitHub Actions Fixes",
+      "notes": "Injected PIN_IMAGE_URL and PIN_DESCRIPTION hidden markers into Blogger HTML. Disabled local Pinterest script (now handled by Make.com). Fixed GitHub Actions 403 errors by hardcoding blogger_blog_id and passing BLOGGER_TOKEN via safe env vars. Fixed OAuth local server port."
     },
-    "stats": {
-        "this_week": 0,
-        "this_month": 0,
-        "all_time": 0
+    {
+      "date": "2026-06-12T06:11:54.112099",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
     },
-    "system_info": {
-        "python_version": "3.11+",
-        "scheduler": "GitHub Actions",
-        "cloud_cost": "FREE",
-        "daily_posts": 2,
-        "monthly_posts_estimate": 60,
-        "image_generation": "Pexels API",
-        "content_generation": "Google Gemini 1.5 Pro",
-        "blog_platform": "Blogspot (Blogger API v3)",
-        "social_media": "Make.com RSS automation to Pinterest"
+    {
+      "date": "2026-06-12T06:12:16.245656",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 1"
     }
+  ],
+  "settings": {
+    "post_times_utc": [
+      "04:00",
+      "10:00"
+    ],
+    "post_times_pkt": [
+      "09:00 AM",
+      "03:00 PM"
+    ],
+    "image_source": "pexels",
+    "ai_model": "gemini-2.5-flash (with 1.5-flash fallback)",
+    "image_model": "flux-realism (Pollinations.ai)",
+    "seo_min_words": 1000,
+    "pinterest_board": "TO_BE_CONFIGURED",
+    "blogger_blog_id": "TO_BE_CONFIGURED",
+    "scheduler": "GitHub Actions (FREE cloud)"
+  },
+  "api_keys_needed": {
+    "gemini_api_key": {
+      "url": "https://aistudio.google.com/app/apikey",
+      "cost": "FREE (generous limits)",
+      "status": "pending"
+    },
+    "pexels_api_key": {
+      "url": "https://www.pexels.com/api/",
+      "cost": "FREE",
+      "status": "optional - only fallback",
+      "note": "AI images banenge primarily, yeh sirf backup hai"
+    },
+    "pinterest_access_token": {
+      "url": "https://developers.pinterest.com/apps/",
+      "cost": "FREE",
+      "status": "pending"
+    },
+    "blogger_api": {
+      "url": "https://console.cloud.google.com",
+      "cost": "FREE",
+      "status": "pending"
+    }
+  },
+  "stats": {
+    "this_week": 1,
+    "this_month": 1,
+    "all_time": 1
+  },
+  "system_info": {
+    "python_version": "3.11+",
+    "scheduler": "GitHub Actions",
+    "cloud_cost": "FREE",
+    "daily_posts": 2,
+    "monthly_posts_estimate": 60,
+    "image_generation": "Pexels API",
+    "content_generation": "Google Gemini 1.5 Pro",
+    "blog_platform": "Blogspot (Blogger API v3)",
+    "social_media": "Make.com RSS automation to Pinterest"
+  }
 }
