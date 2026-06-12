@@ -1,0 +1,35 @@
+# Auto Blogging System
+# .gitignore - Yeh files GitHub par upload nahi hongi (secrets safe rahein)
+
+# API Keys & Secrets (KABHI bhi upload mat karna!)
+config.json
+auth/blogger_token.json
+auth/client_secrets.json
+.env
+
+# Temp files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python env
+venv/
+env/
+.venv/
+
+# Logs (optional - rakhna ho toh comment karo)
+# logs/
+
+# Editor files
+.vscode/settings.json
+*.swp
+
+# Local push scripts and creds
+push_to_github.ps1
+push_via_api.py
+github_credentials.txt
