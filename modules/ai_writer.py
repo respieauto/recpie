@@ -108,6 +108,9 @@ class AIWriter:
         The post MUST be detailed and informative. Include a list of ingredients and step-by-step cooking instructions. Use HTML formatting (<h2>, <h3>, <ul>, <li>, <strong>).
         IMPORTANT: DO NOT include any <img> tags, image placeholders, or markdown images in the html_content. Images will be handled separately.
         
+        CRITICAL NEGATIVE CONSTRAINTS (DO NOT USE THESE WORDS):
+        Never use the words "Unlock", "Delve", "Discover", "Unleash", "Elevate", "Embrace", "Picture this", "Dive into", "In a world where". Start the article directly with the core topic or an engaging fact.
+
         You MUST return ONLY a valid JSON object with the following exact keys:
         - "seo_title": A highly engaging, clickbait but professional SEO title.
         - "keywords": An array of exactly 10 SEO keywords/phrases.
