@@ -198,7 +198,7 @@ class ImageHandler:
             )
             
             try:
-                current_y += (bbox[3] - bbox[1]) - 10
+                current_y += (bbox[3] - bbox[1]) + 10
             except:
                 current_y += 100
                 
@@ -218,7 +218,7 @@ class ImageHandler:
                 )
                 
                 try:
-                    current_y += (bbox[3] - bbox[1]) - 20 # Negative spacing to make text tighter like TikTok
+                    current_y += (bbox[3] - bbox[1]) + 15 # Positive spacing to account for thick 10px strokes
                 except:
                     current_y += 140
                     
