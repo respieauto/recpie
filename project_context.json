@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-06-17T00:05:48.948823",
-  "total_posts_published": 26,
-  "total_pins_created": 26,
+  "last_updated": "2026-06-17T14:44:03.926182",
+  "total_posts_published": 27,
+  "total_pins_created": 27,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -32,7 +32,8 @@
     "kid-approved macaroni and cheese from scratch",
     "easy weeknight dinners for families",
     "keto dinner ideas with ground beef",
-    "Related interests"
+    "Related interests",
+    "slow cooker beef stew for cold winter nights"
   ],
   "failed_attempts": [],
   "github": {
@@ -61,18 +62,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-06-12T06:24:00.785122",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-06-12T06:24:21.817571",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 2"
-    },
     {
       "date": "2026-06-12T17:29:02.280106",
       "action": "Daily run started - 1 posts",
@@ -360,6 +349,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 26"
+    },
+    {
+      "date": "2026-06-17T14:43:47.947006",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-17T14:44:03.926173",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 27"
     }
   ],
   "settings": {
@@ -403,9 +404,9 @@
     }
   },
   "stats": {
-    "this_week": 26,
-    "this_month": 26,
-    "all_time": 26
+    "this_week": 27,
+    "this_month": 27,
+    "all_time": 27
   },
   "system_info": {
     "python_version": "3.11+",
