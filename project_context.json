@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-06-20T11:26:58.742070",
-  "total_posts_published": 41,
-  "total_pins_created": 42,
+  "last_updated": "2026-06-20T13:08:54.043374",
+  "total_posts_published": 42,
+  "total_pins_created": 43,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -41,7 +41,8 @@
     "healthy smoothie recipes for glowing skin",
     "15 Easy Weeknight Dinners Ready in 30 Minutes",
     "Slow Cooker Beef Stew for Cold Winter Nights",
-    "Delicious Vegetarian Dinners Even Meat Eaters Will Love"
+    "Delicious Vegetarian Dinners Even Meat Eaters Will Love",
+    "10 Easy Pasta Recipes for Busy Evenings"
   ],
   "failed_attempts": [
     {
@@ -76,18 +77,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-06-15T20:32:18.125633",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-06-15T20:32:43.040991",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 18"
-    },
     {
       "date": "2026-06-15T21:48:27.178054",
       "action": "Daily run started - 1 posts",
@@ -375,6 +364,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 41"
+    },
+    {
+      "date": "2026-06-20T13:08:31.336680",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-20T13:08:54.043362",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 42"
     }
   ],
   "settings": {
@@ -418,9 +419,9 @@
     }
   },
   "stats": {
-    "this_week": 41,
-    "this_month": 41,
-    "all_time": 41
+    "this_week": 42,
+    "this_month": 42,
+    "all_time": 42
   },
   "system_info": {
     "python_version": "3.11+",
