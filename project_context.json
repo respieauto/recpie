@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-06-23T16:41:26.680017",
-  "total_posts_published": 57,
-  "total_pins_created": 58,
+  "last_updated": "2026-06-23T18:20:12.498399",
+  "total_posts_published": 58,
+  "total_pins_created": 59,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -45,7 +45,8 @@
     "10 Easy Pasta Recipes for Busy Evenings",
     "Keto-Friendly Cauliflower Crust Pizza",
     "10 High-Protein Breakfast Ideas to Keep You Full",
-    "5-Ingredient No-Bake Peanut Butter Desserts"
+    "5-Ingredient No-Bake Peanut Butter Desserts",
+    "the secret to the fluffiest pancakes every time"
   ],
   "failed_attempts": [
     {
@@ -80,18 +81,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-06-18T19:39:28.049514",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-06-18T19:39:47.042624",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 34"
-    },
     {
       "date": "2026-06-18T22:32:37.402581",
       "action": "Daily run started - 1 posts",
@@ -379,6 +368,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 57"
+    },
+    {
+      "date": "2026-06-23T18:19:51.005043",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-23T18:20:12.498393",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 58"
     }
   ],
   "settings": {
@@ -422,9 +423,9 @@
     }
   },
   "stats": {
-    "this_week": 57,
-    "this_month": 57,
-    "all_time": 57
+    "this_week": 58,
+    "this_month": 58,
+    "all_time": 58
   },
   "system_info": {
     "python_version": "3.11+",
