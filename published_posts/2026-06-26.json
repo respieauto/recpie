@@ -67,5 +67,28 @@
       "Food Blogging"
     ],
     "word_count": 443
+  },
+  {
+    "topic": "the secret to the fluffiest pancakes every time",
+    "title": "The Fluffiest Pancakes Ever: Mastering the Art of Pancake Perfection",
+    "published_at": "2026-06-26T21:08:34.151597",
+    "blogger": {
+      "success": true,
+      "url": "https://dailytastyrecipes99.blogspot.com/2026/06/the-fluffiest-pancakes-ever-mastering.html",
+      "post_id": "616563306935512677"
+    },
+    "pinterest": {
+      "success": true,
+      "pin_url": "Handled by Make.com",
+      "pin_id": ""
+    },
+    "keywords": [
+      "fluffy pancakes",
+      "pancake recipe",
+      "breakfast ideas",
+      "brunch recipes",
+      "homemade pancakes"
+    ],
+    "word_count": 400
   }
 ]
