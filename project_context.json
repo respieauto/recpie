@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-07-02T11:56:06.787209",
-  "total_posts_published": 101,
-  "total_pins_created": 102,
+  "last_updated": "2026-07-02T13:22:22.748290",
+  "total_posts_published": 102,
+  "total_pins_created": 103,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -91,18 +91,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-06-27T12:02:33.175970",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-06-27T12:02:55.693795",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 77"
-    },
     {
       "date": "2026-06-27T15:51:37.172229",
       "action": "Daily run started - 1 posts",
@@ -390,6 +378,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 101"
+    },
+    {
+      "date": "2026-07-02T13:21:59.446201",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-02T13:22:22.748284",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 102"
     }
   ],
   "settings": {
@@ -433,9 +433,9 @@
     }
   },
   "stats": {
-    "this_week": 101,
-    "this_month": 101,
-    "all_time": 101
+    "this_week": 102,
+    "this_month": 102,
+    "all_time": 102
   },
   "system_info": {
     "python_version": "3.11+",
