@@ -255,3 +255,5 @@
 [2026-07-07 12:39:06] [SUCCESS] SUCCESS: Warm Up with a Bowl of Comfort: The Ultimate Homemade Chicken Noodle Soup Recipe | Blog: True | Pin: True
 [2026-07-07 16:13:47] [INFO] Topic selected: one-pan lemon butter garlic salmon
 [2026-07-07 16:13:54] [SUCCESS] SUCCESS: One-Pan Lemon Butter Garlic Salmon: A Game-Changing Recipe for a Quick and Delicious Meal | Blog: True | Pin: True
+[2026-07-07 18:35:10] [INFO] Topic selected: the best crispy air fryer chicken recipe
+[2026-07-07 18:35:19] [SUCCESS] SUCCESS: Crispy Air Fryer Chicken Recipe: The Ultimate Guide to Perfectly Cooked Chicken | Blog: True | Pin: True
