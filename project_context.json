@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-07-08T20:18:15.017515",
-  "total_posts_published": 134,
-  "total_pins_created": 135,
+  "last_updated": "2026-07-08T22:46:23.306177",
+  "total_posts_published": 135,
+  "total_pins_created": 136,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -58,7 +58,8 @@
     "One-Pan Lemon Butter Garlic Salmon",
     "easy comfort food recipes",
     "Food and drink",
-    "quick and easy weeknight dinners"
+    "quick and easy weeknight dinners",
+    "easy high protein meals"
   ],
   "failed_attempts": [
     {
@@ -93,18 +94,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-07-03T22:43:31.189537",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-07-03T22:43:58.600177",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 110"
-    },
     {
       "date": "2026-07-04T10:35:51.910335",
       "action": "Daily run started - 1 posts",
@@ -392,6 +381,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 134"
+    },
+    {
+      "date": "2026-07-08T22:45:58.766234",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-08T22:46:23.306171",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 135"
     }
   ],
   "settings": {
@@ -435,9 +436,9 @@
     }
   },
   "stats": {
-    "this_week": 134,
-    "this_month": 134,
-    "all_time": 134
+    "this_week": 135,
+    "this_month": 135,
+    "all_time": 135
   },
   "system_info": {
     "python_version": "3.11+",
