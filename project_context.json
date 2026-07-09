@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-07-09T16:40:56.503603",
-  "total_posts_published": 136,
-  "total_pins_created": 137,
+  "last_updated": "2026-07-09T18:15:57.579818",
+  "total_posts_published": 137,
+  "total_pins_created": 138,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -59,7 +59,8 @@
     "easy comfort food recipes",
     "Food and drink",
     "quick and easy weeknight dinners",
-    "easy high protein meals"
+    "easy high protein meals",
+    "low calorie high protein meals"
   ],
   "failed_attempts": [
     {
@@ -94,18 +95,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-07-04T11:55:08.090697",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-07-04T11:55:26.915755",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 112"
-    },
     {
       "date": "2026-07-04T15:43:52.616512",
       "action": "Daily run started - 1 posts",
@@ -383,16 +372,28 @@
       "notes": "Total posts ever: 135"
     },
     {
-      "date": "2026-07-09T16:40:32.937998",
+      "date": "2026-07-09T16:40:36.432960",
       "action": "Daily run started - 1 posts",
       "status": "started",
       "notes": ""
     },
     {
-      "date": "2026-07-09T16:40:56.503597",
+      "date": "2026-07-09T16:41:01.724465",
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 136"
+    },
+    {
+      "date": "2026-07-09T18:15:38.443487",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-09T18:15:57.579812",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 137"
     }
   ],
   "settings": {
@@ -436,9 +437,9 @@
     }
   },
   "stats": {
-    "this_week": 136,
-    "this_month": 136,
-    "all_time": 136
+    "this_week": 137,
+    "this_month": 137,
+    "all_time": 137
   },
   "system_info": {
     "python_version": "3.11+",
