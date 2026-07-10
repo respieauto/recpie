@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-07-10T17:32:20.847015",
-  "total_posts_published": 142,
-  "total_pins_created": 143,
+  "last_updated": "2026-07-10T20:08:42.357022",
+  "total_posts_published": 143,
+  "total_pins_created": 144,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -60,7 +60,8 @@
     "Food and drink",
     "quick and easy weeknight dinners",
     "easy high protein meals",
-    "low calorie high protein meals"
+    "low calorie high protein meals",
+    "easy dinner ideas"
   ],
   "failed_attempts": [
     {
@@ -95,18 +96,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-07-05T15:50:26.329249",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-07-05T15:50:51.751875",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 118"
-    },
     {
       "date": "2026-07-05T18:53:35.413881",
       "action": "Daily run started - 1 posts",
@@ -394,6 +383,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 142"
+    },
+    {
+      "date": "2026-07-10T20:08:20.655887",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-10T20:08:42.357016",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 143"
     }
   ],
   "settings": {
@@ -437,9 +438,9 @@
     }
   },
   "stats": {
-    "this_week": 142,
-    "this_month": 142,
-    "all_time": 142
+    "this_week": 143,
+    "this_month": 143,
+    "all_time": 143
   },
   "system_info": {
     "python_version": "3.11+",
