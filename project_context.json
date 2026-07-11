@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-07-11T14:39:48.542634",
-  "total_posts_published": 147,
-  "total_pins_created": 148,
+  "last_updated": "2026-07-11T18:13:02.812145",
+  "total_posts_published": 148,
+  "total_pins_created": 149,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -61,7 +61,8 @@
     "quick and easy weeknight dinners",
     "easy high protein meals",
     "low calorie high protein meals",
-    "easy dinner ideas"
+    "easy dinner ideas",
+    "southern comfort food recipes"
   ],
   "failed_attempts": [
     {
@@ -96,18 +97,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-07-06T18:28:35.048747",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-07-06T18:28:54.948224",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 123"
-    },
     {
       "date": "2026-07-06T21:13:46.418070",
       "action": "Daily run started - 1 posts",
@@ -395,6 +384,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 147"
+    },
+    {
+      "date": "2026-07-11T18:12:39.713980",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-11T18:13:02.812138",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 148"
     }
   ],
   "settings": {
@@ -438,9 +439,9 @@
     }
   },
   "stats": {
-    "this_week": 147,
-    "this_month": 147,
-    "all_time": 147
+    "this_week": 148,
+    "this_month": 148,
+    "all_time": 148
   },
   "system_info": {
     "python_version": "3.11+",
