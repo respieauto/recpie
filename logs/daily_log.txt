@@ -401,3 +401,5 @@
 [2026-07-21 20:36:46] [SUCCESS] SUCCESS: Revolutionize Your Mealtime with Easy Vegan Recipes | Blog: True | Pin: True
 [2026-07-22 06:05:43] [INFO] Topic selected: Explore  Food and drink  articles
 [2026-07-22 06:05:50] [SUCCESS] SUCCESS: Savor the Flavors: Exploring the World of Food and Drink | Blog: True | Pin: True
+[2026-07-22 09:38:24] [INFO] Topic selected: the best crispy air fryer chicken recipe
+[2026-07-22 09:38:37] [SUCCESS] SUCCESS: Crispy Air Fryer Chicken Recipe: The Ultimate Guide to Perfectly Cooked Chicken | Blog: True | Pin: True
