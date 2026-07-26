@@ -4,9 +4,9 @@
   "language": "English",
   "posts_per_day": 2,
   "created_at": "2026-06-10",
-  "last_updated": "2026-07-26T16:15:40.480676",
-  "total_posts_published": 223,
-  "total_pins_created": 224,
+  "last_updated": "2026-07-26T20:18:12.850052",
+  "total_posts_published": 224,
+  "total_pins_created": 225,
   "api_keys_configured": true,
   "blogger_configured": true,
   "pinterest_configured": true,
@@ -64,7 +64,8 @@
     "easy dinner ideas",
     "southern comfort food recipes",
     "healthy vegetarian dinner recipes",
-    "best healthy breakfast recipes"
+    "best healthy breakfast recipes",
+    "healthy comfort food recipes"
   ],
   "failed_attempts": [
     {
@@ -99,18 +100,6 @@
     "model": "flux-realism"
   },
   "sessions": [
-    {
-      "date": "2026-07-21T20:36:29.545492",
-      "action": "Daily run started - 1 posts",
-      "status": "started",
-      "notes": ""
-    },
-    {
-      "date": "2026-07-21T20:36:46.389021",
-      "action": "Daily run complete: 1 success, 0 failed",
-      "status": "completed",
-      "notes": "Total posts ever: 199"
-    },
     {
       "date": "2026-07-22T06:05:29.264038",
       "action": "Daily run started - 1 posts",
@@ -398,6 +387,18 @@
       "action": "Daily run complete: 1 success, 0 failed",
       "status": "completed",
       "notes": "Total posts ever: 223"
+    },
+    {
+      "date": "2026-07-26T20:17:51.002276",
+      "action": "Daily run started - 1 posts",
+      "status": "started",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-26T20:18:12.850047",
+      "action": "Daily run complete: 1 success, 0 failed",
+      "status": "completed",
+      "notes": "Total posts ever: 224"
     }
   ],
   "settings": {
@@ -441,9 +442,9 @@
     }
   },
   "stats": {
-    "this_week": 223,
-    "this_month": 223,
-    "all_time": 223
+    "this_week": 224,
+    "this_month": 224,
+    "all_time": 224
   },
   "system_info": {
     "python_version": "3.11+",
