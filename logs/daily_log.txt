@@ -496,3 +496,5 @@
 [2026-07-31 13:08:13] [INFO] Topic selected: 10 easy pasta recipes for busy evenings
 [2026-07-31 13:08:23] [CRITICAL] Critical error in run_single_post: Groq API Error 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.","type":"invalid_request_error","code":"json_validate_failed","failed_generation":"max completion tokens reached before generating a valid document"}}
 
+[2026-07-31 16:59:02] [INFO] Topic selected: the best crispy air fryer chicken recipe
+[2026-07-31 16:59:10] [SUCCESS] SUCCESS: Crispy Air Fryer Chicken Recipe: The Ultimate Guide to Mouthwatering Meals | Blog: True | Pin: True
