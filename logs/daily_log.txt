@@ -512,3 +512,6 @@
 [2026-08-01 20:15:27] [SUCCESS] SUCCESS: The Secret to the Fluffiest Pancakes Every Time: A Master Chef's Guide | Blog: True | Pin: True
 [2026-08-02 06:12:38] [INFO] Topic selected: sheet pan dinners
 [2026-08-02 06:12:46] [SUCCESS] SUCCESS: Sheet Pan Dinners: The Ultimate Solution for Busy Home Cooks | Blog: True | Pin: True
+[2026-08-02 09:20:51] [INFO] Topic selected: keto dinner ideas with ground beef
+[2026-08-02 09:20:59] [CRITICAL] Critical error in run_single_post: Groq API Error 400: {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.","type":"invalid_request_error","code":"json_validate_failed","failed_generation":"max completion tokens reached before generating a valid document"}}
+
