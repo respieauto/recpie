@@ -647,3 +647,5 @@
 [2026-08-15 11:36:51] [SUCCESS] SUCCESS: The Creamiest Kid-Approved Macaroni and Cheese Recipe from Scratch | Blog: True | Pin: True
 [2026-08-15 15:36:45] [INFO] Topic selected: kid-approved macaroni and cheese from scratch
 [2026-08-15 15:36:52] [SUCCESS] SUCCESS: The Creamiest Kid-Approved Macaroni and Cheese Recipe from Scratch | Blog: True | Pin: True
+[2026-08-15 19:34:05] [INFO] Topic selected: the best crispy air fryer chicken recipe
+[2026-08-15 19:34:12] [SUCCESS] SUCCESS: Crispy Air Fryer Chicken Recipe: The Ultimate Guide to Perfectly Cooked Chicken | Blog: True | Pin: True
