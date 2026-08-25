@@ -774,3 +774,6 @@
 [2026-08-25 04:01:05] [INFO] Topic selected: Comforting Homemade Chicken Noodle Soup
 [2026-08-25 04:01:05] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-08-25 07:57:58] [INFO] Topic selected: healthy comfort food recipes
+[2026-08-25 07:57:58] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
