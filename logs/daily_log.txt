@@ -795,3 +795,6 @@
 [2026-08-26 11:48:03] [INFO] Topic selected: quick vegetarian dinner recipes
 [2026-08-26 11:48:03] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-08-26 16:35:05] [INFO] Topic selected: 15 Easy Weeknight Dinners Ready in 30 Minutes
+[2026-08-26 16:35:05] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
