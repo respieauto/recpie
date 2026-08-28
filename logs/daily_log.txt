@@ -816,3 +816,6 @@
 [2026-08-28 03:35:27] [INFO] Topic selected: Delicious Vegetarian Dinners Even Meat Eaters Will Love
 [2026-08-28 03:35:27] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-08-28 15:24:49] [INFO] Topic selected: the best crispy air fryer chicken recipe
+[2026-08-28 15:24:50] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
