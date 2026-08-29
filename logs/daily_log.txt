@@ -843,3 +843,6 @@
 [2026-08-29 18:34:03] [INFO] Topic selected: Kid-Approved Macaroni and Cheese From Scratch
 [2026-08-29 18:34:03] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-08-29 21:44:17] [INFO] Topic selected: one-pan lemon butter garlic salmon
+[2026-08-29 21:44:17] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
