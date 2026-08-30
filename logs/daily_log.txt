@@ -855,3 +855,6 @@
 [2026-08-30 15:22:22] [INFO] Topic selected: best comfort food recipes
 [2026-08-30 15:22:22] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-08-30 18:39:12] [INFO] Topic selected: one-pan lemon butter garlic salmon
+[2026-08-30 18:39:13] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
