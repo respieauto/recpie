@@ -879,3 +879,6 @@
 [2026-09-01 08:41:11] [INFO] Topic selected: 5-ingredient no-bake peanut butter desserts
 [2026-09-01 08:41:11] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-01 12:34:18] [INFO] Topic selected: one-pan lemon butter garlic salmon
+[2026-09-01 12:34:18] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
