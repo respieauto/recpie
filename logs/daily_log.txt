@@ -924,3 +924,6 @@
 [2026-09-04 08:00:15] [INFO] Topic selected: 10 Easy Pasta Recipes for Busy Evenings
 [2026-09-04 08:00:15] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-04 12:07:49] [INFO] Topic selected: Slow Cooker Beef Stew for Cold Winter Nights
+[2026-09-04 12:07:49] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
