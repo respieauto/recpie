@@ -960,3 +960,6 @@
 [2026-09-06 14:13:51] [INFO] Topic selected: the best crispy air fryer chicken recipe
 [2026-09-06 14:13:51] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-06 17:37:21] [INFO] Topic selected: 5-Ingredient No-Bake Peanut Butter Desserts
+[2026-09-06 17:37:22] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
