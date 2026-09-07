@@ -975,3 +975,6 @@
 [2026-09-07 16:30:29] [INFO] Topic selected: one-pan lemon butter garlic salmon
 [2026-09-07 16:30:29] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-07 19:12:16] [INFO] Topic selected: slow cooker beef stew for cold winter nights
+[2026-09-07 19:12:16] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
