@@ -984,3 +984,6 @@
 [2026-09-08 08:06:58] [INFO] Topic selected: The Secret to the Fluffiest Pancakes Every Time
 [2026-09-08 08:06:58] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-08 12:08:30] [INFO] Topic selected: Keto-Friendly Cauliflower Crust Pizza
+[2026-09-08 12:08:30] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
