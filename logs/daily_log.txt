@@ -1140,3 +1140,6 @@
 [2026-09-18 15:01:32] [INFO] Topic selected: Kid-Approved Macaroni and Cheese From Scratch
 [2026-09-18 15:01:32] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-18 18:31:33] [INFO] Topic selected: The Best Crispy Air Fryer Chicken Recipe
+[2026-09-18 18:31:33] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
