@@ -1131,3 +1131,6 @@
 [2026-09-17 22:10:11] [INFO] Topic selected: easy kid friendly dinner ideas
 [2026-09-17 22:10:11] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-09-18 08:17:10] [INFO] Topic selected: How to Build the Perfect Summer Charcuterie Board
+[2026-09-18 08:17:10] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
