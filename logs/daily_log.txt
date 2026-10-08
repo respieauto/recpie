@@ -1431,3 +1431,6 @@
 [2026-10-07 23:35:30] [INFO] Topic selected: Keto-Friendly Cauliflower Crust Pizza
 [2026-10-07 23:35:30] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-10-08 10:37:36] [INFO] Topic selected: 15 Easy Weeknight Dinners Ready in 30 Minutes
+[2026-10-08 10:37:36] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
