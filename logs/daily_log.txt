@@ -1500,3 +1500,6 @@
 [2026-10-12 20:19:22] [INFO] Topic selected: healthy breakfast ideas
 [2026-10-12 20:19:22] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-10-12 22:30:56] [INFO] Topic selected: one-pan lemon butter garlic salmon
+[2026-10-12 22:30:56] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
