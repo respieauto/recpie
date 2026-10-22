@@ -1653,3 +1653,6 @@
 [2026-10-22 19:14:37] [INFO] Topic selected: breakfast ideas
 [2026-10-22 19:14:37] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-10-22 22:20:27] [INFO] Topic selected: 10 high-protein breakfast ideas to keep you full
+[2026-10-22 22:20:27] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
