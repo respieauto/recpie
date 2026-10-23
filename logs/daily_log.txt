@@ -1662,3 +1662,6 @@
 [2026-10-23 12:37:18] [INFO] Topic selected: easy weeknight dinners for family
 [2026-10-23 12:37:18] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-10-23 15:46:22] [INFO] Topic selected: Kid-Approved Macaroni and Cheese From Scratch
+[2026-10-23 15:46:22] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
