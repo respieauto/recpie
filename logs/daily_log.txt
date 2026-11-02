@@ -1812,3 +1812,6 @@
 [2026-11-02 17:03:32] [INFO] Topic selected: how to build the perfect summer charcuterie board
 [2026-11-02 17:03:32] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-11-02 20:49:04] [INFO] Topic selected: Healthy Smoothie Recipes for Glowing Skin
+[2026-11-02 20:49:04] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
