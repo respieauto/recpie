@@ -2127,3 +2127,6 @@
 [2026-11-23 19:14:03] [INFO] Topic selected: The Secret to the Fluffiest Pancakes Every Time
 [2026-11-23 19:14:03] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-11-23 22:42:03] [INFO] Topic selected: Delicious Vegetarian Dinners Even Meat Eaters Will Love
+[2026-11-23 22:42:03] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
