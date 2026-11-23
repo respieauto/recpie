@@ -2118,3 +2118,6 @@
 [2026-11-22 21:05:34] [INFO] Topic selected: Related interests
 [2026-11-22 21:05:34] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-11-23 00:18:54] [INFO] Topic selected: 10 Easy Pasta Recipes for Busy Evenings
+[2026-11-23 00:18:54] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
