@@ -2136,3 +2136,6 @@
 [2026-11-24 04:17:29] [INFO] Topic selected: Meal prep made easy
 [2026-11-24 04:17:29] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-11-24 13:45:37] [INFO] Topic selected: Filipino recipes to save now
+[2026-11-24 13:45:37] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
