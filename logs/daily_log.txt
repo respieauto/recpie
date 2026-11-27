@@ -2181,3 +2181,6 @@
 [2026-11-27 02:10:17] [INFO] Topic selected: healthy smoothie recipes for glowing skin
 [2026-11-27 02:10:17] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 
+[2026-11-27 12:24:42] [INFO] Topic selected: One-Pan Lemon Butter Garlic Salmon
+[2026-11-27 12:24:42] [CRITICAL] Critical error in run_single_post: Groq API Error 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
